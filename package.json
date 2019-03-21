@@ -1,6 +1,9 @@
 {
   "name": "Sup",
   "version": "1.0.0",
+  "engines": {
+    "node": "10.3.0"
+  },
   "description": "Marketing website fro Sup the app",
   "author": "The Sup Team <whats.sup.app@gmail.com>",
   "license": "GPLv3",
